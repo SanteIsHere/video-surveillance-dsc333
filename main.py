@@ -1,6 +1,7 @@
 """
 Name: main.py
 Author: Asante Frye
+Description: A surveillance application to detect changes in a scene captured via camera stream.
 """
 
 # Import required libraries
